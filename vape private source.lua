@@ -26,7 +26,7 @@ COB("Utility", {
             end) 
         end
     end,
-    HoverText = "tps projeciles at everyone"
+    HoverText = "kills all in the server"
 })
 
 COB("Utility", {
