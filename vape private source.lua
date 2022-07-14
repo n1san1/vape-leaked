@@ -46,7 +46,7 @@ COB("Utility", {
     Function = function(callback) 
         if callback then
             pcall(function() 
-                shared.SetPing(game.Players.LocalPlayer, 0) 
+                shared.SetPing(game.Players.LocalPlayer, 1) 
             end) 
         end
     end,
